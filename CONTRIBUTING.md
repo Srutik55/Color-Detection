@@ -79,11 +79,5 @@ Thank you for your interest in contributing to the **Color Detection Project**! 
 
 ---
 
-## Questions or Feedback?
 
-If you have questions, feel free to open an issue, and we’ll be happy to assist you!
-
----
-
-Thank you for contributing to the **Color Detection Project**! 🚀
 
